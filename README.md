@@ -20,7 +20,7 @@ circularTextView.attributedText = attribString
 
 ```
 
-Which results in:
+Which could result in something like:
 
 ![screen shot](screenshot.png)
 
