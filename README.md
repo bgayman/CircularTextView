@@ -21,4 +21,10 @@ circularTextView.attributedText = attribString
 ```
 
 Which results in:
+
 ![screen shot](screenshot.png)
+
+##Todos
+- Clean up code
+- Improve underline and strike through particularly dotted underline
+- Support more attributes
