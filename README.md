@@ -1,5 +1,5 @@
 # CircularTextView
-`UIView` subclass that displays an `NSAttributedString` in a circle based on the bounds and inset of the view. Swift version of [this](https://gist.github.com/warpling/fae69d61986c6b7b38f33b83d65de0ed).
+`UIView` subclass that displays an `NSAttributedString` in a circle based on the bounds and inset of the view. Loosely based on [this](https://gist.github.com/warpling/fae69d61986c6b7b38f33b83d65de0ed).
 
 Some improvements include handling of emoji, multiple font families and sizes as well as many `NSAttributedString` attributes. 
 
