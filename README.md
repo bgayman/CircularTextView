@@ -5,7 +5,7 @@ Some improvements include handling of emoji, multiple font families and sizes as
 
 Should work on swift 3.0 Xcode beta 6.
 
-##Example
+## Example
 
 ```
 let circularTextView = CircularTextView(frame: CGRect(x: 0.0, y: 0.0, width: 320.0, height: 320.0))
@@ -24,7 +24,7 @@ Which could result in something like:
 
 ![screen shot](screenshot.png)
 
-##Todos
+## Todos
 - Clean up code
 - Improve underline and strike through particularly dotted underline
 - Support more attributes
